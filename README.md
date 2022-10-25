@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faiz-vision
-- 👀 I’m interested in ...
+- 👀 I’m interested in Figma, Adobe XD, Photoshoop, HTML, CSS, Bootstrap 5, React Js, Angular Js, Wordpress and Woocommerce.
 - 🌱 I’m currently learning UI/UX designing
 - 💞️ I’m looking to collaborate
 - 📫 Phone number :- 9149032873 and my Email Id :- mhfaeez121@gmail.com
